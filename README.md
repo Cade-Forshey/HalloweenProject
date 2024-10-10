@@ -1,2 +1,0 @@
-# HalloweenProject
-Spooky project
