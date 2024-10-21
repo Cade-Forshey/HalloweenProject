@@ -1,7 +1,36 @@
 body {
-    background-color: black;
+    background-image: linear-gradient(#06423a, #637017);
 }
 
 h1, h2, h3, h4, h5, h6, ul, ol, li, cite, p {
-    color: aliceblue;
+    color: #d8882d;
+}
+
+hr {
+    border-color: #d8882d;
+}
+
+#Page-Link {
+    font-size: 40px;
+    color: blanchedalmond;
+}
+
+#index-bats-and-moon {
+    height: 150px;
+    float: inline-end;
+}
+
+#bottom-img {
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 250px;
+}
+
+#index-footer {
+    font-size: 10px;
+}
+
+#jack-o {
+    height: 150px;
+    float: right;
 }
